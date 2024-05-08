@@ -13,20 +13,20 @@
 ```bash
 git clone https://github.com/yourusername/react-axios-task.git
 cd react-axios-task    
- 
+```
 ### Install Dependencies
 Ensure you have Node.js and npm installed, then run:
 
 ```bash
 npm install
 
-
+```
 ### Run the Application
 Start the development server:
 
 ```bash
 npm start
-
+```
 ### Access the Application
 Navigate to [http://localhost:3000](http://localhost:3000) in your browser to interact with the app.
 

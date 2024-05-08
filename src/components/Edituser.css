@@ -1,0 +1,47 @@
+
+.edit-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+
+  .edit-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+    transition: all 0.2s ease;
+  }
+  
+  .edit-card:hover {
+    transform: scale(1.02);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+
+  .button-group {
+    margin-top: 15px;
+  }
+  
+  .save-button,
+  .cancel-button {
+    padding: 10px 20px;
+    font-weight: 600;
+    border-radius: 25px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .save-button:hover,
+  .cancel-button:hover {
+    opacity: 0.9;
+  }
+  
